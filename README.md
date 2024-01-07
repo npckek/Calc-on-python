@@ -15,17 +15,16 @@
   <a>Italiano</a>
 </p>
 
-<h3 align="center"> This code allows you to run the calculator from the command line. All computational operations are performed using Python 
+<p align="center"> This code allows you to run the calculator from the command line. 
+<p>All computational operations are performed using Python</p>
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=py" />
     </a>
   </p>
-</h3>
+</p>
 
-<h2>
-  <p align="center">Installation</p>    
-</h2>
+<h2 align="center">Installation</h2>
 <p> Here you will find information about installing the file</p>
 
 
