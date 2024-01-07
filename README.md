@@ -16,8 +16,8 @@
 </p>
 
 <p align="center"> This code allows you to run the calculator from the command line. 
-<p>All computational operations are performed using Python</p>
-  <p>
+<p align="center">All computational operations are performed using Python</p>
+  <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=py" />
     </a>
